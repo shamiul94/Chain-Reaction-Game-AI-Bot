@@ -1,0 +1,1 @@
+python3 aicontest_file.py 1000
