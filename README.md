@@ -1,5 +1,5 @@
 # Chain-Reaction-Game-AI-Bot
-This is a AI bot for Chain Reaction game using minimax algorithm with alpha-beta pruning ang killer move heuristic.
+This is a AI bot for Chain Reaction game using minimax algorithm with alpha-beta pruning and killer move heuristic.
 This implementation is not guaranteed to be accurate. I tried to implement it in a very short time for CSE Fest AI Contest of BUET CSE, 2019. If there is any mistake you find in this code, feel free to create an issue or mail me at ```shamiulhasan93@gmail.com```
 
 This problem is an underrated AI problem. This problem need more attention from CS people. It's quite a hard problem to solve. This heuristic was not completely implemented by me. Help was taken from other net sources. 
