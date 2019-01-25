@@ -13,6 +13,7 @@ Game link in play store - https://play.google.com/store/apps/details?id=com.Budd
 
 A good read about the heuristic - https://brilliant.org/discussions/thread/artificial-intelligence-for-chain-reaction/
 
+For understanding read - ```Chainreac-with-comment.java``` file.
 
 # THIS CODE IS WRITTEN IN FILE MODE 
 
