@@ -30,4 +30,4 @@ Description of my submitted files -
       ./my_script.sh
 ```
 
-Youtube link will be given here later. 
+[This](https://www.youtube.com/watch?v=RLf7vcTQHjo&t=350s) is the Youtube link of the gameplay.
